@@ -566,5 +566,3 @@ class FontRenderer {
         return $dst;
     }
 }
-
-?>
